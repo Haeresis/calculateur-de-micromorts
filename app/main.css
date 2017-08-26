@@ -1,21 +1,23 @@
-
-input[type=number]#days::-webkit-inner-spin-button, 
-input[type=number]#days::-webkit-outer-spin-button { 
-  -webkit-appearance: none; 
-  margin: 0; 
-}
-input[type=date]::-webkit-inner-spin-button, 
-input[type=date]::-webkit-outer-spin-button { 
-  -webkit-appearance: none; 
-  margin: 0; 
+input[type=number]#days::-webkit-inner-spin-button,
+input[type=number]#days::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
 }
 
-form{
+input[type=date]::-webkit-inner-spin-button,
+input[type=date]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+form {
 	margin-top: 50px;
 }
-.intervalCalc.disabled{
+
+.intervalCalc.disabled {
 	opacity: .4;
 }
-footer{
-	margin-top: 100px;	
+
+footer {
+	margin-top: 100px;
 }

@@ -1,4 +1,3 @@
+# Calculateur de micromorts et de micromorts par jour
 
-Calculate micromorts and micromorts per day.
-
-http://rorystolzenberg.github.io/micromort-calculator/
+— https://haeresis.github.io/calculateur-de-micromorts/
