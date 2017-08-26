@@ -38,7 +38,7 @@ define(['react', 'jsx!app/PerDayCalculator'], function (React, PerDayCalculator)
 							÷
 						</h2>
 						<div className="col-md-4 row">
-							<label className="col-md-12" htmlFor="population">Population</label>
+							<label className="col-md-12" htmlFor="population"><a href="https://www.google.fr/publicdata/explore?ds=d5bncppjof8f9_&met_y=sp_pop_totl&idim=country:FRA:GBR:DEU&hl=fr&dl=fr" target="_blank">Population</a></label>
 							<div className="col-md-7">
 								<input ref="population" type="number" className="form-control" id="population" placeholder="Population"/>
 								<em className="checkbox row text-right">
